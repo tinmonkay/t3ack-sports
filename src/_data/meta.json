@@ -1,0 +1,34 @@
+{
+  "siteName": "Site",
+  "siteDescription": "Description",
+  "siteImage": "",
+  "tinmonkay": "tinmonkay",
+  "baseUrl": "",
+  "phone": "",
+  "mobile": "",
+  "email": "",
+  "addressInfo": "",
+  "addressStreet": "",
+  "addressCity": "",
+  "addressCountry": "",
+  "socials": [
+    {
+      "name": "facebook",
+      "url": ""
+    },
+    {
+      "name": "instagram",
+      "url": ""
+    }
+  ],
+  "navlinks": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ]
+}

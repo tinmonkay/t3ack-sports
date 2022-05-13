@@ -1,0 +1,10 @@
+{% for link in meta.navlinks %}
+<li>
+  <a
+    title="{{ link.name }}"
+    aria-label="{{ link.name }}"
+    href="{{ link.url }}"
+    >{{ link.name }}</a
+  >
+</li>
+{% endfor %}
