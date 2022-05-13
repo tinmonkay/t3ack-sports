@@ -1,8 +1,8 @@
 [
   {
     "name": "Challenge",
-    "description": "Bereik je doelen met T3ACK",
-    "image": "/img/formula/foto1.png",
+    "description": "Voor atleten met een uitdaging",
+    "image": "/img/formule-challenge.jpg",
     "price": "25€ / week (incl. btw)",
     "options": [
       {
@@ -20,17 +20,74 @@
   {
     "name": "Competition",
     "description": "Voor de ambitieuze atleet",
-    "image": "/img/formula/foto1.png",
-    "price": "25€ / week (incl. btw)",
+    "image": "/img/formule-competition.jpg",
+    "price": "160€ / maand (incl. btw)",
     "options": [
       {
-        "name": "wekelijks trainingsschema"
+        "name": "Jaarplanning"
       },
       {
-        "name": "Op maat"
+        "name": "Wekelijkse trainingsschema"
       },
       {
-        "name": "Wekelijks contact"
+        "name": "Onbeperkt contact"
+      },
+      {
+        "name": "Kracht & stabilisatie"
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "name": "High performance",
+    "description": "Voor de ambitieuze atleet",
+    "image": "/img/formule-topsport.png",
+    "price": "Vanaf 300€ / maand (prijs op aanvraag)",
+    "options": [
+      {
+        "name": "Meerjarenplanning"
+      },
+      {
+        "name": "Wekelijkse trainingsschema"
+      },
+      {
+        "name": "Dagelijkse opvolging"
+      },
+      {
+        "name": "Netwerk experts"
+      },
+      {
+        "name": "24/7 bereikbaar"
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "name": "Team",
+    "description": "Voor clubs en teams",
+    "image": "/img/formule-team.jpg",
+    "price": "Prijs op aanvraag",
+    "options": [
+      {
+        "name": "Jaarplanning"
+      },
+      {
+        "name": "Testing"
+      },
+      {
+        "name": "Consulting"
+      },
+      {
+        "name": "Trainingschema’s"
+      },
+      {
+        "name": "Kracht & stabilisatie"
       }
     ],
     "link": "#"
