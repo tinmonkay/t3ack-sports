@@ -1,8 +1,28 @@
+@font-face {
+  font-family: "Monument Extended Light";
+  src: url("../fonts/MonumentExtended-Light.woff2") format("woff2"),
+    url("../fonts/MonumentExtended-Light.woff") format("woff");
+}
+@font-face {
+  font-family: "Monument Extended Regular";
+  src: url("../fonts/MonumentExtended-Regular.woff2") format("woff2"),
+    url("../fonts/MonumentExtended-Regular.woff") format("woff");
+}
+
 body {
   background-color: #333;
-  font-family: sans-serif;
+  font-family: "Monument Extended Light", Arial, sans-serif;
   color: #ddd;
   margin: 1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Monument Extended Regular", Arial, sans-serif;
 }
 
 a {
