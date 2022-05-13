@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Challenge",
+    "description": "Bereik je doelen met T3ACK",
+    "image": "/img/formula/foto1.png",
+    "price": "25€ / week (incl. btw)",
+    "options": [
+      {
+        "name": "wekelijks trainingsschema"
+      },
+      {
+        "name": "Op maat"
+      },
+      {
+        "name": "Wekelijks contact"
+      }
+    ],
+    "link": "#"
+  },
+  {
+    "name": "Competition",
+    "description": "Voor de ambitieuze atleet",
+    "image": "/img/formula/foto1.png",
+    "price": "25€ / week (incl. btw)",
+    "options": [
+      {
+        "name": "wekelijks trainingsschema"
+      },
+      {
+        "name": "Op maat"
+      },
+      {
+        "name": "Wekelijks contact"
+      }
+    ],
+    "link": "#"
+  }
+]
